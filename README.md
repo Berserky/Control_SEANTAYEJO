@@ -2,8 +2,6 @@
 
 Sistema de control de versiones para la institución educativa distrital Rodolfo Llinas 
 
-<![endif]-->
-
 **Control SEANTAYEJO, trabajando para la seguridad de su institución**
 
 ![enter image description here](https://lh3.googleusercontent.com/-gFycTAsMtBxMXfbULCZ4QuYkspbx6y-2hgokP87ol6XA8mvLpjBlwlCvq-eAoECuErJv6r_Jr3wYA)
