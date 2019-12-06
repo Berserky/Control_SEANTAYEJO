@@ -2,8 +2,6 @@
 
 Sistema de control de versiones para la institución educativa distrital Rodolfo Llinas 
 
-<![endif]-->
-
 **Control SEANTAYEJO, trabajando para la seguridad de su institución**
 
 ![enter image description here](https://lh3.googleusercontent.com/-gFycTAsMtBxMXfbULCZ4QuYkspbx6y-2hgokP87ol6XA8mvLpjBlwlCvq-eAoECuErJv6r_Jr3wYA)
@@ -16,22 +14,24 @@ Diseñar un software el cual controle los accesos de entrada y salida de los dif
 
 **Específicos:**
 
-1) Realizar un control de llegadas y salidas de cada estudiante y personal administrativo teniendo un control sobre llegadas tarde o inasistencias dando un control completo a la coordinación académica de la institución
+**Funcionales:**
 
-2) Gestionar un mapeo completo de los estudiantes, maestros, personal completo y acudientes o usuarios externos de la institución que deseen entrar a esta, dando así una seguridad mas completa
+1) Realizar un control de llegadas y salidas de cada estudiante y personal administrativo teniendo un control sobre llegadas tarde o inasistencias dando un control completo a la coordinación académica de la institución.(RF01)
 
-3) Visualizar los reportes de cada estudiante, haciendo un análisis completo de sus llegadas tarde y inasistencias, reportando a sus acudientes trimestralmente a lo largo de su periodo anual
+2) Gestionar un mapeo completo de los estudiantes, maestros, personal completo y acudientes o usuarios externos de la institución que deseen entrar a esta, dando así una seguridad mas completa.(RF02)
 
-4) Visualizar los reportes de retardos o inasistencias de los estudiantes en tiempo real a sus acudientes por correo electrónico
+3) Planificar un método de seguridad para los estudiantes en respectivos ambientes fuera de la institución para tener un control correcto de su seguridad.(RF05)
+... 
 
-5) Plantear una plataforma sofisticada, pero de fácil acceso y conocimiento para que los maestros puedan registrar las excusas de retardos o inasistencias para un mejor manejo de dichas circunstancias
+**No Funcionales:**
 
-6) Planificar un método de seguridad para los estudiantes en respectivos ambientes fuera de la institución para tener un control correcto de su seguridad
+1) Cada usuario que desee ingresar al sistema, deberá introducir en la página principal un código de usuario y una contraseña, la cual será validada por el sistema, dándole acceso al sistema o enviándole un mensaje para que introduzca nuevamente sus datos.(RFN05)
 
-7) Ejecutar alarmas para los acudientes reportando casos donde sus estudiantes tengan mas de 3 inasistencias reiterativas en la institución dando así un reporte y empezar un debido proceso
+2) El sistema debe utilizar los servicios de la red interna de la institución, para establecer comunicación entre las coordinaciones y departamentos de directivos, el servidor y el manejador de base de datos.(RFN06)
 
-8) Reportar los accesos de usuarios externos a la institución que deseen entrar, utilizando una base de datos ya especificada por los acudientes de cada estudiante registrando quienes pueden ingresar a acudir a sus hijos, y evitar el acceso a diferentes usuarios que no tengan nada que ver con los estudiantes, dando así una mayor seguridad a los estudiantes
+3) El sistema deberá ser desarrollado bajo software libre, utilizando el lenguaje de programación PHP y utilizará el estándar HTML para el diseño de las páginas web del sistema. De esta forma se garantizaría que el código HTML generado pueda ser interpretado por cualquier de los navegadores comerciales existentes.(RFN07)
 
+...
 **PLANTEAMIENTO DEL PROBLEMA:**
 
 -La problemática de nuestro proyecto es que el control de accesos es manejado por una planilla por los maestros y una bitácora manejada por los guardias de seguridad, el cual genera la problemática de que no se genera un reporte exacto de los aprendices, donde la institución en muchos casos no puede realizar un debido proceso a cada estudiante por sus inasistencias o sus retardos, lo cual genera confusión al momento de verificar el estado de las asistencias del aprendiz.
