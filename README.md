@@ -34,5 +34,4 @@ Diseñar un software el cual controle el acceso de los estudiantes y demás inte
 
   Se desarrollará un programa local con conexiones de red local con plataformas para reportar las excusas, otra para el registro de entrada y salida de diferentes usuarios externos que deseen entrar a la institución controlando los accesos, otra para visualizar las novedades y reportes de cada usuario reportando inasistencias y retardos.
   
-Dicho proyecto y planteamientos se desarrollarán durante mediados del año 2019 y que será entregado desde finales del 2020 a inicios del 2021
 
